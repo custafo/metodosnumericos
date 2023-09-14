@@ -1,3 +1,4 @@
+package BissecComplete;
 public class Main {
 
     // 1) x^2 + ln(x) = 0 | e ≤ 10–2 entrada [0.5, 1]
